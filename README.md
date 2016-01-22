@@ -77,6 +77,9 @@ We have **four rules** that leads this design:
 - iFsm - jQuery: https://github.com/intersel/iFSM [<img src="https://img.shields.io/npm/dt/ifsm.svg" align="right">](https://www.npmjs.com/package/ifsm)
 - State flow: https://github.com/philipdev/stateflow [<img src="https://img.shields.io/npm/dt/stateflow.svg" align="right">](https://www.npmjs.com/package/stateflow)
 
+## Examples
+
+TODO 🛠
 
 
 
